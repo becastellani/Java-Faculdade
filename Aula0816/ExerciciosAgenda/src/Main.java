@@ -16,7 +16,5 @@ public class Main {
         System.out.println(contato1.getEndereco().getRua() + ", " + contato1.getEndereco().getNumero() + ", " +
         contato1.getEndereco().getBairro() + ", " + contato1.getEndereco().getCidade() + ", " + endereco1.getEstado());
 
-
-
     }
 }
